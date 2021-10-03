@@ -1,4 +1,3 @@
-AirQuality
 UniqueID;IndicatorID;Name;Measure;MeasureInfo;GeoTypeName;GeoJoinID;GeoPlaceName;TimePeriod;Start_Date;DataValue;Message
 336475;375;Nitrogen Dioxide (NO2);Mean;ppb;Borough;1;Bronx;Annual Average 2015;01/01/2015;19.97;
 412412;375;Nitrogen Dioxide (NO2);Mean;ppb;Borough;1;Bronx;Winter 2015-16;12/01/2015;22.28;
