@@ -1,0 +1,9 @@
+Selected Air Pollutants in the 5 Boroughs
+A look into selected major air pollutants and their change throughout the years
+The graph takes a look at the unhealthy pollutants Nitrogen Dioxide (NO2), Sulfur Dioxide (SO2), and Ozone (O3) and how the volume of them in the atmosphere has changed. The X-axis displays the date, and the Y-axis displays the Parts per Billion (Ppb). I chose this because these are three pollutants I remember hearing about when I was growing up quite frequently, and they caught my eye in the Dataset. A scatterplot was chosen because I thought it could display all the required information without being too crowded or cluttery. A tooltip was added for an interactive and more information
+
+Nitrogen dioxide has an adverse effect on the respiratory systems of both humans and animals, increasing risks of stroke. Just like nitrogen monoxide, it dissolves in water vapour to create acid rain. Nitrogen dioxide contributes to the formation of ground-level ozone (O3), and forms secondary particulate matter (PM2.5) when combined with other atmospheric compounds such as ammonia.
+
+Sulphur dioxide is an irritant, and can cause respiratory diseases in humans and animals. It forms acid rain when dissolved in water, which damages vegetation, buildings and materials, and contributes to the acidification of terrestrial and aquatic ecosystems. Sulphur dioxide also forms secondary particulate matter (PM2.5) when combined with other compounds such as ammonia in the atmosphere.
+
+Ozone is suspected to have carcinogenic effects. It leads to reduced lung function and respiratory diseases, with exposure linked to premature mortality. Apart from its impact on the human body, ozone also damages vegetation, contributing to a decrease in crop productivity and forest decline. Ozone accelerates the deterioration of rubbers, dyes, paints, coatings, and various textiles, and is also a major component of smog.
