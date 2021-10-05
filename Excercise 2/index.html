@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Air Pollutants</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <div class="navbar">
+      <nav>
+        <ul> 
+          <li>Gisli Gudjonsson - DIVA 2021 -  <a href="https://github.com/gisligudjons/DIVA/tree/main/Excercise%202">The Project on GitHub</a></li>
+        </ul>
+      </nav>
+    </div>
+
+    <div class="row">
+      <div class="col-1">
+        <h2>Selected Air Pollutants in the 5 Boroughs <br></h2>
+        <h3> A look into selected major air pollutants and their change throughout the years </h3>
+        <p>The graph takes a look at the unhealthy pollutants Nitrogen Dioxide (NO2), Sulfur Dioxide (SO2), and Ozone (O3) and how the volume of them in the atmosphere has changed. The X-axis displays the date, and the Y-axis displays the Parts per Billion (Ppb). I chose this because these are three pollutants I remember hearing about when I was growing up quite frequently, and they caught my eye in the Dataset. A scatterplot was chosen because I thought it could display all the required information without being too crowded or cluttery. A tooltip was added for an interactive and more information </p>
+        <h4>Hover your mouse over the dots to see the more information</h4>
+    
+      </div>
+      <div id="chart">
+      <script data-require="d3@4.0.0" data-semver="4.0.0" src="https://d3js.org/d3.v4.js"></script>
+      <div id="my_dataviz"></div>
+        <script src="main.js"></script>
+        <div class="col-1">
+        <p>Nitrogen dioxide has an adverse effect on the respiratory systems of both humans and animals, increasing risks of stroke. Just like nitrogen monoxide, it dissolves in water vapour to create acid rain. Nitrogen dioxide contributes to the formation of ground-level ozone (O3), and forms secondary particulate matter (PM2.5) when combined with other atmospheric compounds such as ammonia.</p>
+        <p>Sulphur dioxide is an irritant, and can cause respiratory diseases in humans and animals. It forms acid rain when dissolved in water, which damages vegetation, buildings and materials, and contributes to the acidification of terrestrial and aquatic ecosystems. Sulphur dioxide also forms secondary particulate matter (PM2.5) when combined with other compounds such as ammonia in the atmosphere.
+        </p>
+        <p>Ozone is suspected to have carcinogenic effects. It leads to reduced lung function and respiratory diseases, with exposure linked to premature mortality. Apart from its impact on the human body, ozone also damages vegetation, contributing to a decrease in crop productivity and forest decline. Ozone accelerates the deterioration of rubbers, dyes, paints, coatings, and various textiles, and is also a major component of smog.</p>
+    </div>
+    </div>
+    
+        
+      </div>
+    </div>
+  </div>
+</body>
+</html>
